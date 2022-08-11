@@ -1,2 +1,2 @@
 # create-new-email
-new  company email for new employee 
+Örnek bir şirket çalışanı için şirket maili oluşturma
